@@ -1,5 +1,4 @@
 <template>
-  <div>
-    Hello, world
-  </div>
+  <HomeWelcome />
+  <Counter />
 </template>
